@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24921</setID>
+    <number>70606</number>
+    <numberVariant>1</numberVariant>
+    <name>Spinjitzu Training</name>
+    <year>2017</year>
+    <theme>The LEGO Ninjago Movie</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme />
+    <pieces>109</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>70606-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_70606-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/70606-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/70606-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/70606-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1752</ownedByTotal>
+    <wantedByTotal>532</wantedByTotal>
+    <UKRetailPrice>8.99</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>9.99</EURetailPrice>
+    <USDateAddedToSAH>2017-08-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>4.57142857142857</rating>
+    <reviewCount>7</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN />
+    <UPC>673419247627</UPC>
+    <description>&lt;p&gt;Join the ninja heroes at the dojo with this action-packed THE LEGO® NINJAGO® MOVIE™ Spinjitzu Training set, featuring a dojo wall with a scroll and 2 detachable staffs, weapon rack with 2 detachable katanas, combat training station, Garmadon combat dummy, plus 2 minifigures.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 2 minifigures: Kai and Zane.&lt;/li&gt;&lt;li&gt; Features a dojo wall with a scroll and 2 detachable staffs, weapon rack with 2 katanas, Garmadon combat dummy and a combat training station.&lt;/li&gt;&lt;li&gt; Weapons include Kai’s 2 katanas and Zane’s bow and arrow.&lt;/li&gt;&lt;li&gt; Recreate and role-play exciting THE LEGO® NINJAGO® MOVIE™ scenes.&lt;/li&gt;&lt;li&gt; Dojo wall measures over 3” (8cm) high, 1” (4cm) wide and 1” (4cm) deep.&lt;/li&gt;&lt;li&gt; Weapon rack measures over 1” (3cm) high, 1” (3cm) wide and under 1” (1.5cm) deep.&lt;/li&gt;&lt;li&gt; Garmadon combat dummy measures over 1” (5cm) high and under 1” (2cm) wide and 1” (2cm) deep.&lt;/li&gt;&lt;li&gt; Combat training station measures over 1” (4cm) high, 1” (3cm) wide and 1” (3cm) deep.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2017-07-08T21:38:41.05</lastUpdated>
+  </sets>
+</ArrayOfSets>

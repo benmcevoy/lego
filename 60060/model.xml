@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>22989</setID>
+    <number>60060</number>
+    <numberVariant>1</numberVariant>
+    <name>Auto Transporter</name>
+    <year>2014</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Traffic</subtheme>
+    <pieces>350</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>60060-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_60060-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60060-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60060-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60060-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>6666</ownedByTotal>
+    <wantedByTotal>2029</wantedByTotal>
+    <UKRetailPrice>24.99</UKRetailPrice>
+    <USRetailPrice>29.99</USRetailPrice>
+    <CARetailPrice>39.99</CARetailPrice>
+    <EURetailPrice>29.99</EURetailPrice>
+    <USDateAddedToSAH>2013-12-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2016-02-11</USDateRemovedFromSAH>
+    <rating>5</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>6</instructionsCount>
+    <additionalImageCount>9</additionalImageCount>
+    <EAN>5702015119221</EAN>
+    <UPC>673419207591</UPC>
+    <description>				&lt;p&gt;					Deliver the cars to the dealer with the amazing Auto Transporter!				&lt;/p&gt;				&lt;p&gt;					Deliver the shiny new cars to the LEGO&amp;reg; City dealerships with the amazing Auto Transporter! Detach the trailer, lower the ramps and offload the cool sports cars. After the customer signs the clipboard, lift the ramps back into position, hook up the trailer and jump back in the cab ready to collect more vehicles for the eager customers! Collect this and all the other vehicles in the Great Vehicles range! Includes 2 minifigures with assorted accessories: a driver and a dealer.&lt;div&gt;&lt;ul&gt;&lt;li&gt;Includes 2 minifigures with assorted accessories: a driver and a dealer.&lt;/li&gt;&lt;li&gt;Features an Auto Transporter and 2 cool sports cars&amp;nbsp;&lt;/li&gt;&lt;li&gt;Auto Transporter features opening doors, lowering ramps and detachable trailer&lt;/li&gt;&lt;li&gt;Accessories include a clipboard and a briefcase&lt;/li&gt;&lt;li&gt;Detach the trailer, lower the ramps and offload the cars&lt;/li&gt;&lt;li&gt;Keep the dealers supplied with shiny new cars&lt;/li&gt;&lt;li&gt;Auto Transporter measures over 3&amp;rdquo; (9cm) high, 13&amp;rdquo; (34cm) long and 2&amp;rdquo; (6cm) wide&lt;/li&gt;&lt;li&gt;Sports car measures over 1&amp;rdquo; (4cm) high, 4&amp;rdquo; (11cm) long and 1&amp;rdquo; (5cm) wide&lt;/li&gt;&lt;li&gt;Collect all the other cool models in the Great Vehicles range!&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2014-03-22T20:37:07.28</lastUpdated>
+  </sets>
+</ArrayOfSets>

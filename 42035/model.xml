@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23877</setID>
+    <number>42035</number>
+    <numberVariant>1</numberVariant>
+    <name>Mining Truck</name>
+    <year>2015</year>
+    <theme>Technic</theme>
+    <themeGroup>Technical</themeGroup>
+    <subtheme />
+    <pieces>362</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>42035-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_42035-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/42035-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/42035-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/42035-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2567</ownedByTotal>
+    <wantedByTotal>801</wantedByTotal>
+    <UKRetailPrice>24.99</UKRetailPrice>
+    <USRetailPrice>29.99</USRetailPrice>
+    <CARetailPrice>39.99</CARetailPrice>
+    <EURetailPrice>24.99</EURetailPrice>
+    <USDateAddedToSAH>2015-01-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2016-12-05</USDateRemovedFromSAH>
+    <rating>4</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>4</instructionsCount>
+    <additionalImageCount>4</additionalImageCount>
+    <EAN>5702015350006</EAN>
+    <UPC>673419230223</UPC>
+    <description>				&lt;p&gt;					Climb aboard the giant LEGO® Technic Mining Truck!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Climb aboard the gigantic Mining Truck! The awesome scale of this massive vehicle has been captured in this LEGO® Technic model, featuring huge wheels, detailed engine with moving piston and transmission belt, heavy-duty bumper and grill guard, tipping cargo bed, driver’s cab and working steering. Maneuver the mighty machine into position, then tip and lock the massive cargo bed to deliver the load! Features a cool yellow and black color scheme. This 2-in-1 model rebuilds into a rugged Wheel Dozer.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Features huge wheels, detailed engine with moving piston and transmission belt, heavy-duty bumper and grill guard, tipping cargo bed, driver’s cab and working steering&lt;/li&gt;&lt;li&gt; Check out the cool yellow and black color scheme&lt;/li&gt;&lt;li&gt; Climb aboard!&lt;/li&gt;&lt;li&gt; Tip the huge cargo bed and deliver the load&lt;/li&gt;&lt;li&gt; Drive the world’s biggest truck!&lt;/li&gt;&lt;li&gt; 2-in-1 model: rebuilds into a Wheel Dozer&lt;/li&gt;&lt;li&gt; Mining Truck measures over 3” (10cm) high, 7” (19cm) long and 3” (10cm) wide&lt;/li&gt;&lt;li&gt; Wheel Dozer measures over 2” (7cm) high, 7” (20cm)long and 7” (18cm) wide&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2014-12-21T00:20:21.053</lastUpdated>
+  </sets>
+</ArrayOfSets>

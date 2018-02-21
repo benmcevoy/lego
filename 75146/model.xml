@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>25605</setID>
+    <number>75146</number>
+    <numberVariant>1</numberVariant>
+    <name>Star Wars Advent Calendar</name>
+    <year>2016</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Seasonal</subtheme>
+    <pieces>282</pieces>
+    <minifigs>10</minifigs>
+    <image>true</image>
+    <imageFilename>75146-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75146-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75146-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75146-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75146-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>6252</ownedByTotal>
+    <wantedByTotal>1152</wantedByTotal>
+    <UKRetailPrice>24.99</UKRetailPrice>
+    <USRetailPrice>39.99</USRetailPrice>
+    <CARetailPrice>49.99</CARetailPrice>
+    <EURetailPrice>29.99</EURetailPrice>
+    <USDateAddedToSAH>2016-09-17</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2016-11-20</USDateRemovedFromSAH>
+    <rating>4.5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>1</additionalImageCount>
+    <ageMin>6</ageMin>
+    <ageMax>14</ageMax>
+    <height>26.2128</height>
+    <width>38.2016</width>
+    <depth>7.0612</depth>
+    <weight>0.39952</weight>
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Battle Droid|n, Bespin Guard|n, Chewbacca|n, Gonk Droid|n, Hoth Rebel Trooper|n, Imperial Navy Trooper|n, Luke Skywalker|n, Snowtrooper|n, Stormtrooper|n, U-3PO|n, Aat, Advent Calendar, Empire, Rebellion, Republic, Separatists, Slave I, Star Wars Shuttle, </tags>
+    <EAN />
+    <UPC>673419248655</UPC>
+    <description />
+    <lastUpdated>2016-12-01T22:36:10.08</lastUpdated>
+  </sets>
+</ArrayOfSets>

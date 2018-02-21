@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24795</setID>
+    <number>75136</number>
+    <numberVariant>1</numberVariant>
+    <name>Droid Escape Pod</name>
+    <year>2016</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Episode IV</subtheme>
+    <pieces>197</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>75136-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75136-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75136-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75136-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75136-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>7768</ownedByTotal>
+    <wantedByTotal>2116</wantedByTotal>
+    <UKRetailPrice>19.99</UKRetailPrice>
+    <USRetailPrice>24.99</USRetailPrice>
+    <CARetailPrice>29.99</CARetailPrice>
+    <EURetailPrice>20.99</EURetailPrice>
+    <USDateAddedToSAH>2016-03-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2016-11-26</USDateRemovedFromSAH>
+    <rating>4.2</rating>
+    <reviewCount>5</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>10</additionalImageCount>
+    <EAN />
+    <UPC>673419247511</UPC>
+    <description>				&lt;p&gt;					Help the droids escape with the Death Star plans!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;C-3PO and R2-D2 are in danger and they need your help to escape! Load them into the Droid Escape Pod, close the hatches and launch to safety. After landing on the nearest planet, can you keep them safe from the Jawas with their ion blasters? That’s for you to decide.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 3 minifigures: C-3PO and 2 Jawas, plus an R2-D2 Astromech Droid.&lt;/li&gt;&lt;li&gt; Features opening hatches, large engines at the back and a detailed interior with space for 2 characters and a display showing the top-secret Death Star plans.&lt;/li&gt;&lt;li&gt; Includes 2 Jawa ion blasters.&lt;/li&gt;&lt;li&gt; Recreate the unforgettable opening scenes from Star Wars: Episode IV A New Hope.&lt;/li&gt;&lt;li&gt; Measures over 2” (7cm) high, 5” (14cm) long and 2” (6cm) wide with hatches closed, and over 5” (13cm) wide when open.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2016-02-13T22:07:12.443</lastUpdated>
+  </sets>
+</ArrayOfSets>

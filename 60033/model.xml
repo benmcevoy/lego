@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23298</setID>
+    <number>60033</number>
+    <numberVariant>1</numberVariant>
+    <name>Arctic Ice Crawler</name>
+    <year>2014</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Arctic</subtheme>
+    <pieces>113</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>60033-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_60033-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60033-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60033-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60033-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>5897</ownedByTotal>
+    <wantedByTotal>1259</wantedByTotal>
+    <UKRetailPrice>9.99</UKRetailPrice>
+    <USRetailPrice>14.99</USRetailPrice>
+    <CARetailPrice>17.99</CARetailPrice>
+    <EURetailPrice>14.99</EURetailPrice>
+    <USDateAddedToSAH>2014-05-27</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2016-01-23</USDateRemovedFromSAH>
+    <rating>4</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>7</additionalImageCount>
+    <EAN>5702015119252</EAN>
+    <UPC>673419207621</UPC>
+    <description>				&lt;p&gt;					Explore remote areas with the LEGO® City Arctic Ice Crawler!				&lt;/p&gt;				&lt;p&gt;					Reach the remotest destinations with the LEGO&amp;reg; City Arctic Ice Crawler! This super-robust utility vehicle has multiple lights and tracks to cope with icy terrain, plus a radar and antenna to maintain contact with the support team. Help the Arctic explorer to uncover the secrets of the ice with the pickaxe and circular saw. Lift exciting discoveries safely onto the truck using its powerful rotating crane and drive back to base camp. Includes an Arctic explorer minifigure with assorted accessories.&lt;div&gt;&lt;ul&gt;&lt;li&gt;Includes an Arctic explorer minifigure with accessories&lt;/li&gt;&lt;li&gt;Features driver&amp;rsquo;s cabin, multiple lights, radar, antenna, rotating crane with a heavy-duty hook and rubber tracks&lt;/li&gt;&lt;li&gt;Also includes a translucent blue ice block with lifting hook and a crystal&lt;/li&gt;&lt;li&gt;Accessories include an Arctic explorer hood, circular saw and a pickaxe&lt;/li&gt;&lt;li&gt;Reach the most remote areas on the rubber tracks&lt;/li&gt;&lt;li&gt;Stay in contact with the support team with the antenna and radar&lt;/li&gt;&lt;li&gt;Lift the ice block onto the Ice Crawler with the rotating crane&lt;/li&gt;&lt;li&gt;Measures over 3&amp;rdquo; (10cm) high, 4&amp;rdquo; (12cm) long and 2&amp;rdquo; (6cm) wide&lt;/li&gt;&lt;li&gt;Combine with the 60036 Arctic Base Camp for the ultimate Arctic research and discovery mission&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2014-08-13T04:04:56.78</lastUpdated>
+  </sets>
+</ArrayOfSets>

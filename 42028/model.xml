@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23443</setID>
+    <number>42028</number>
+    <numberVariant>1</numberVariant>
+    <name>Bulldozer</name>
+    <year>2014</year>
+    <theme>Technic</theme>
+    <themeGroup>Technical</themeGroup>
+    <subtheme />
+    <pieces>617</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>42028-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_42028-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/42028-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/42028-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/42028-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2577</ownedByTotal>
+    <wantedByTotal>1225</wantedByTotal>
+    <UKRetailPrice>34.99</UKRetailPrice>
+    <USRetailPrice>49.99</USRetailPrice>
+    <CARetailPrice>59.99</CARetailPrice>
+    <EURetailPrice>39.99</EURetailPrice>
+    <USDateAddedToSAH>2014-08-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2015-10-29</USDateRemovedFromSAH>
+    <rating>5</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>5</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN>5702015122566</EAN>
+    <UPC />
+    <description>				&lt;p&gt;					Clear the ground with this powerful 2-in-1 Bulldozer!				&lt;/p&gt;				&lt;p&gt;					Get ready to push heavy loads with the awesome LEGO&amp;reg; Technic Bulldozer! This tough 2-in-1 model is packed with realistic details, including a massive working blade and powerful ripper, wide moving tracks and a detailed engine with moving pistons. Let&amp;rsquo;s get to work! Rebuilds into a powerful Trench Digger.&lt;div&gt;&lt;ul&gt;&lt;li&gt;Features a massive blade, wide moving tracks, lifting blade and ripper, and a detailed engine with moving pistons&lt;/li&gt;&lt;li&gt;Push heavy loads with the massive blade&lt;/li&gt;&lt;li&gt;Operate the super-powerful ripper&lt;/li&gt;&lt;li&gt;Maneuver over rugged terrain with the wide caterpillar tracks&amp;nbsp;&lt;/li&gt;&lt;li&gt;2-in-1 model: rebuilds into a Trench Digger&lt;/li&gt;&lt;li&gt;Bulldozer measures over 5&amp;rdquo; (13cm) high, 11&amp;rdquo; (29cm) long and 6&amp;rdquo; (16cm) wide&lt;/li&gt;&lt;li&gt;Trench Digger measures over 4&amp;rdquo; (12cm) high, 11&amp;rdquo; (28cm) long and 5&amp;rdquo; (13cm) wide&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2014-10-11T19:47:11.643</lastUpdated>
+  </sets>
+</ArrayOfSets>

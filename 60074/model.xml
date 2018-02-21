@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23885</setID>
+    <number>60074</number>
+    <numberVariant>1</numberVariant>
+    <name>Bulldozer</name>
+    <year>2015</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Construction</subtheme>
+    <pieces>384</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>60074-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_60074-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60074-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60074-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60074-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>4299</ownedByTotal>
+    <wantedByTotal>1588</wantedByTotal>
+    <UKRetailPrice>24.99</UKRetailPrice>
+    <USRetailPrice>39.99</USRetailPrice>
+    <CARetailPrice>49.99</CARetailPrice>
+    <EURetailPrice>29.99</EURetailPrice>
+    <USDateAddedToSAH>2015-03-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2016-11-26</USDateRemovedFromSAH>
+    <rating>5</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>6</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN>5702015349857</EAN>
+    <UPC>673419230575</UPC>
+    <description>				&lt;p&gt;					Call in the heavy-duty demolition Bulldozer!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Call in the heavy-duty demolition Bulldozer! The dynamite has done its work and it’s time to demolish the remaining part of the old building to make way for new. Help the demolition experts finish off the job. Jump aboard the powerful bulldozer with its huge, moving blade and ripper, and tear down the remains of the old building! When you’re done, help the experts to clear up the rubble using the bulldozer’s powerful blade! Includes 2 demolition worker minifigures with assorted accessories: a man and a woman.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 2 demolition worker minifigures with assorted accessories: a man and a woman&lt;/li&gt;&lt;li&gt; Features a bulldozer with movable blade and ripper, and a building section&lt;/li&gt;&lt;li&gt; Accessories include 2 dynamite sticks, jackhammer, hammer, sign, wheelbarrow, chain, loose bricks and ear defenders&lt;/li&gt;&lt;li&gt; Call in the heavy-duty bulldozer&lt;/li&gt;&lt;li&gt; Clear away the rubble&lt;/li&gt;&lt;li&gt; Get the job done!&lt;/li&gt;&lt;li&gt; Bulldozer measures over 3” (10cm) high, 7” (19cm) long and 4” (11cm) wide&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-01-14T04:20:58.13</lastUpdated>
+  </sets>
+</ArrayOfSets>

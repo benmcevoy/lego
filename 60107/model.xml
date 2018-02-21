@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24676</setID>
+    <number>60107</number>
+    <numberVariant>1</numberVariant>
+    <name>Fire Ladder Truck</name>
+    <year>2016</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Fire</subtheme>
+    <pieces>214</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>60107-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_60107-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60107-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60107-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60107-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>3966</ownedByTotal>
+    <wantedByTotal>882</wantedByTotal>
+    <UKRetailPrice>17.99</UKRetailPrice>
+    <USRetailPrice>24.99</USRetailPrice>
+    <CARetailPrice>29.99</CARetailPrice>
+    <EURetailPrice>19.99</EURetailPrice>
+    <USDateAddedToSAH>2016-01-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>4.33333333333333</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>7</additionalImageCount>
+    <EAN>5702015591768</EAN>
+    <UPC>673419247863</UPC>
+    <description>				&lt;p&gt;					Put out the burning oil barrel!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Hop in the Fire Ladder Truck and race to the scene! Extend the ladder and put out the fire. Use the special stud-shooting hose to battle the blaze and fight the flames on the ground with the fire extinguisher. Keep the oil barrel from exploding! It’s up to you to protect the city!&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 2 minifigures: a female firefighter and a male firefighter.&lt;/li&gt;&lt;li&gt; Features a Fire Ladder Truck with extending ladder and hose, plus an oil barrel.&lt;/li&gt;&lt;li&gt; Move the Fire Ladder Truck into position, extend the ladder and get above the fire.&lt;/li&gt;&lt;li&gt; Pull out the fire hose and shoot the water elements with the stud-shooting function to put out the fire!&lt;/li&gt;&lt;li&gt; Accessory elements include a fire extinguisher, shovel, circular saw, water studs and an axe.&lt;/li&gt;&lt;li&gt; Fire Ladder Truck measures over 3” (8cm) high, 7”(20cm) long and 1” (5cm) wide.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2016-01-24T02:22:22.5</lastUpdated>
+  </sets>
+</ArrayOfSets>

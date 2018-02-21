@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24738</setID>
+    <number>10720</number>
+    <numberVariant>1</numberVariant>
+    <name>Police Helicopter Chase</name>
+    <year>2016</year>
+    <theme>Juniors</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme>City</subtheme>
+    <pieces>63</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>10720-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_10720-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/10720-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/10720-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/10720-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>816</ownedByTotal>
+    <wantedByTotal>188</wantedByTotal>
+    <UKRetailPrice>8.99</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>9.99</EURetailPrice>
+    <USDateAddedToSAH>2016-03-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2017-11-19</USDateRemovedFromSAH>
+    <rating>0</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>7</additionalImageCount>
+    <EAN />
+    <UPC>673419247139</UPC>
+    <description>				&lt;p&gt;					Catch the thief and protect the ATM with the Police Helicopter Chase!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Keep watch over the city in the LEGO® Juniors police helicopter! Spot the thief trying to break into the ATM and then fly down and catch him in the act. You can help the police protect and serve. LEGO Juniors lets you have fun with a great building experience!&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 2 minifigures: a police officer and a crook.&lt;/li&gt;&lt;li&gt; Features a police helicopter with seat, opening door and window, searchlight and spinning propellers, plus an ATM with opening door on the front.&lt;/li&gt;&lt;li&gt; Quick-start elements get the play started sooner.&lt;/li&gt;&lt;li&gt; Easy-to-follow building instructions also included.&lt;/li&gt;&lt;li&gt; Accessory elements include a crowbar, 2 banknotes, walkie-talkie and handcuffs.&lt;/li&gt;&lt;li&gt; Helicopter measures over 3” (8cm) high, 4” (12cm) long and 2” (6cm) wide.&lt;/li&gt;&lt;li&gt; ATM measures over 1” (4cm) high and under 1” (1cm) wide and 1” (2cm) deep.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2016-02-21T22:31:23.31</lastUpdated>
+  </sets>
+</ArrayOfSets>

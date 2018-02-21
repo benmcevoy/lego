@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23003</setID>
+    <number>42027</number>
+    <numberVariant>1</numberVariant>
+    <name>Desert Racer</name>
+    <year>2014</year>
+    <theme>Technic</theme>
+    <themeGroup>Technical</themeGroup>
+    <subtheme />
+    <pieces>148</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>42027-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_42027-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/42027-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/42027-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/42027-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2526</ownedByTotal>
+    <wantedByTotal>546</wantedByTotal>
+    <UKRetailPrice>17.99</UKRetailPrice>
+    <USRetailPrice>19.99</USRetailPrice>
+    <CARetailPrice>24.99</CARetailPrice>
+    <EURetailPrice>19.99</EURetailPrice>
+    <USDateAddedToSAH>2014-05-27</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2015-12-19</USDateRemovedFromSAH>
+    <rating>5</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>7</instructionsCount>
+    <additionalImageCount>5</additionalImageCount>
+    <EAN>5702015122559</EAN>
+    <UPC>673419210423</UPC>
+    <description>				&lt;p&gt;					Drive over rough terrain with the pull-back Desert Racer!				&lt;/p&gt;				&lt;p&gt;					This chunky Desert Racer is built for rugged driving. There is a pull-back motor to power it forward as well as 4 massive tires to tackle any obstacle. This great little model also features a roll-cage to protect the driver and a row of lights across the top. There&amp;rsquo;s also a cool winch to get it out of tough spots as well as an angled exhaust and, as a finishing touch, the bodywork has decals and a race number. For an even more action-packed play experience, combine your model with 42026 Black Champion Racer to create a Race Truck with 2 pull-back motors!&lt;ul&gt;&lt;li&gt;Features a tough front winch, roll cage, chunky tires, cool styling and a pull-back motor for fast-paced fun&lt;/li&gt;&lt;li&gt;Use the tough front winch to get out of tough spots&lt;/li&gt;&lt;li&gt;Technic elements to develop your building skills&lt;/li&gt;&lt;li&gt;Ride the rough stuff with the chunky tires&lt;/li&gt;&lt;li&gt;Desert Racer measures over 3&amp;rdquo; (8cm) high, 6&amp;rdquo; (17cm) long and 3&amp;rdquo; (9cm) wide&lt;/li&gt;&lt;li&gt;Combine with 42026 Black Champion Racer to create an amazing Race Truck with 2 pull-back motors!&lt;/li&gt;&lt;li&gt;Combi model measures over 3&amp;rdquo; (10cm) high, 8&amp;rdquo; (21cm) long and 3&amp;rdquo; (10cm) wide&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2013-12-28T01:23:10.18</lastUpdated>
+  </sets>
+</ArrayOfSets>

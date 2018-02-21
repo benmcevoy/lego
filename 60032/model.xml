@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23297</setID>
+    <number>60032</number>
+    <numberVariant>1</numberVariant>
+    <name>Arctic Snowmobile</name>
+    <year>2014</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Arctic</subtheme>
+    <pieces>44</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>60032-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_60032-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60032-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60032-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60032-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>7378</ownedByTotal>
+    <wantedByTotal>1195</wantedByTotal>
+    <UKRetailPrice>4.99</UKRetailPrice>
+    <USRetailPrice>6.99</USRetailPrice>
+    <CARetailPrice>8.99</CARetailPrice>
+    <EURetailPrice>5.99</EURetailPrice>
+    <USDateAddedToSAH>2014-05-27</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2015-11-26</USDateRemovedFromSAH>
+    <rating>3.85714285714286</rating>
+    <reviewCount>7</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN>5702015119245</EAN>
+    <UPC>673419207614</UPC>
+    <description>				&lt;p&gt;					Investigate the secrets of the ice with the LEGO® City Arctic Snowmobile!				&lt;/p&gt;				&lt;p&gt;					Search for the secrets of the ice with the super-cool LEGO&amp;reg; City Arctic Snowmobile! Venture out into freezing polar conditions with the explorer in his specialist Arctic gear. Crack open the huge ice block with the axe to reveal the mysterious crystal inside. Use the walkie-talkie to report your discovery, then load the ice and crystal onto the sled and return to base camp to conduct more tests. Includes an Arctic explorer minifigure with assorted accessories.&lt;div&gt;&lt;ul&gt;&lt;li&gt;Includes an Arctic explorer minifigure with accessories&lt;/li&gt;&lt;li&gt;Features skis and detachable sled&lt;/li&gt;&lt;li&gt;Also includes a translucent blue ice block and a crystal&lt;/li&gt;&lt;li&gt;Accessories include an Arctic explorer hood, walkie-talkie and a pickaxe&lt;/li&gt;&lt;li&gt;Report back to base with the walkie-talkie&lt;/li&gt;&lt;li&gt;Transport the huge ice block on the sled&lt;/li&gt;&lt;li&gt;Examine the mysterious crystal inside the ice block&lt;/li&gt;&lt;li&gt;Arctic Snowmobile measures over 3&amp;rdquo; (8cm) long and under 1&amp;rdquo; (2cm) high and 1&amp;rdquo; (2cm) wide&lt;/li&gt;&lt;li&gt;Sled measures over 1&amp;rdquo; (4cm) high, 1&amp;rdquo; (5cm) long and 1&amp;rdquo; (3cm) wide&lt;/li&gt;&lt;li&gt;Combine with the 60036 Arctic Base Camp for the ultimate Arctic research and discovery mission&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2014-08-12T00:49:56.423</lastUpdated>
+  </sets>
+</ArrayOfSets>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>25599</setID>
+    <number>30278</number>
+    <numberVariant>1</numberVariant>
+    <name>Poe's X-wing Fighter</name>
+    <year>2016</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>The Force Awakens</subtheme>
+    <pieces>64</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>30278-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_30278-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/30278-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/30278-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/30278-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>5497</ownedByTotal>
+    <wantedByTotal>938</wantedByTotal>
+    <UKRetailPrice>3.99</UKRetailPrice>
+    <USRetailPrice>3.99</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice>4.99</EURetailPrice>
+    <USDateAddedToSAH />
+    <USDateRemovedFromSAH />
+    <rating>4.5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Polybag</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>3</instructionsCount>
+    <additionalImageCount>1</additionalImageCount>
+    <EAN />
+    <UPC />
+    <description>&lt;p&gt;Enter the heat of battle aboard Poe's iconic X-Wing Fighter with folding wings, as seen in the blockbuster movie &lt;i&gt;Star Wars&lt;/i&gt;: The Force Awakens.&lt;/p&gt;</description>
+    <lastUpdated>2016-04-18T23:54:23.227</lastUpdated>
+  </sets>
+</ArrayOfSets>

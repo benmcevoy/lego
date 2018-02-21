@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24005</setID>
+    <number>10685</number>
+    <numberVariant>1</numberVariant>
+    <name>Fire Suitcase</name>
+    <year>2015</year>
+    <theme>Juniors</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme>City</subtheme>
+    <pieces>113</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>10685-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_10685-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/10685-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/10685-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/10685-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>768</ownedByTotal>
+    <wantedByTotal>204</wantedByTotal>
+    <UKRetailPrice>19.99</UKRetailPrice>
+    <USRetailPrice>19.99</USRetailPrice>
+    <CARetailPrice>29.99</CARetailPrice>
+    <EURetailPrice>24.99</EURetailPrice>
+    <USDateAddedToSAH>2015-03-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2016-11-17</USDateRemovedFromSAH>
+    <rating>0</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Other</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN>5702015354332</EAN>
+    <UPC>673419232210</UPC>
+    <description>				&lt;p&gt;					Fly to the rescue in the speedy helicopter and put out the fire!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Put fires out wherever you go with the LEGO® Juniors Fire Suitcase! Construct the Easy to Build fire helicopter, fire motorbike and base station, and then help the firefighters save the day! Designed for an easy start with the LEGO® brick, LEGO Juniors sets come with easy instructions and quick start elements to get the play started sooner. Includes 2 firefighter minifigures.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 2 firefighter minifigures&lt;/li&gt;&lt;li&gt; Features an Easy to Build fire helicopter, fire motorbike and a base station&lt;/li&gt;&lt;li&gt; Accessories include a water hose, map, barrier, fire and lights&lt;/li&gt;&lt;li&gt; The super handy red suitcase makes this set easy to take and play wherever you go&lt;/li&gt;&lt;li&gt; Quick start elements get the play started sooner&lt;/li&gt;&lt;li&gt; Easy instructions encourage building independence&lt;/li&gt;&lt;li&gt; A LEGO® building and play experience designed for young builders&lt;/li&gt;&lt;li&gt; Suitcase measures over 9" (25cm) high, 11" (28cm) wideand 2"(6cm) deep&lt;/li&gt;&lt;li&gt; Fire helicopter measures over 3" (8cm) high, 5" (13cm) long and  3" (10cm) wide&lt;/li&gt;&lt;li&gt; Fire motorbike measures over 1" (4cm) high, 2" (6cm) long and  1" (4cm) wide&lt;/li&gt;&lt;li&gt; Base station measures over 2" (6cm) high, 4" (11cm) wide and 1" (3cm) deep&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-11-12T00:14:46.963</lastUpdated>
+  </sets>
+</ArrayOfSets>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24927</setID>
+    <number>70612</number>
+    <numberVariant>1</numberVariant>
+    <name>Green Ninja Mech Dragon</name>
+    <year>2017</year>
+    <theme>The LEGO Ninjago Movie</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme />
+    <pieces>544</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>70612-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_70612-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/70612-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/70612-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/70612-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2164</ownedByTotal>
+    <wantedByTotal>1120</wantedByTotal>
+    <UKRetailPrice>44.99</UKRetailPrice>
+    <USRetailPrice>49.99</USRetailPrice>
+    <CARetailPrice>64.99</CARetailPrice>
+    <EURetailPrice>49.99</EURetailPrice>
+    <USDateAddedToSAH>2017-08-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>5</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>4</instructionsCount>
+    <additionalImageCount>10</additionalImageCount>
+    <EAN />
+    <UPC>673419248389</UPC>
+    <description>&lt;p&gt;Outwit The Green Ninja’s evil father Garmadon with this mighty THE LEGO® NINJAGO® MOVIE™ mech. The Green Ninja Mech Dragon features articulated snapping jaws, a fully posable body, wheel-activated swooshing tail, 2 leg-mounted stud shooters and 2 hidden pop-out thrusters. This set includes 4 minifigures with assorted weapons—including The Green Ninja’s sword and Garmadon’s laser-style pointer—to offer even more role-play battle possibilities.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 4 minifigures: The Green Ninja, Wu, Garmadon and Charlie.&lt;/li&gt;&lt;li&gt; Green Ninja Mech Dragon features a minifigure cockpit, articulated snapping jaws, fully posable body, wheel-activated swooshing tail with spikes, 2 leg-mounted stud shooters, 2 hidden pop-out thrusters in the front legs, and gold-colored details.&lt;/li&gt;&lt;li&gt; Weapons include The Green Ninja's tasseled sword, Wu's staff, Garmadon's laser-style pointer and 2 katanas, and Charlie's fish spear.&lt;/li&gt;&lt;li&gt; Recreate and role-play exciting THE LEGO®NINJAGO® MOVIE™ scenes.&lt;/li&gt;&lt;li&gt; Green Ninja Mech Dragon measures over 5” (13cm) high, 23” (60cm) long and 4” (12cm) wide.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2017-07-08T21:43:29.633</lastUpdated>
+  </sets>
+</ArrayOfSets>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23069</setID>
+    <number>10665</number>
+    <numberVariant>1</numberVariant>
+    <name>Spider-Man: Spider-Car Pursuit</name>
+    <year>2014</year>
+    <theme>Juniors</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme>Marvel Super Heroes</subtheme>
+    <pieces>55</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>10665-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_10665-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/10665-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/10665-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/10665-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2479</ownedByTotal>
+    <wantedByTotal>511</wantedByTotal>
+    <UKRetailPrice>11.99</UKRetailPrice>
+    <USRetailPrice>12.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>12.99</EURetailPrice>
+    <USDateAddedToSAH>2014-02-18</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2015-11-25</USDateRemovedFromSAH>
+    <rating>4</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>5</additionalImageCount>
+    <EAN>5702015125307</EAN>
+    <UPC>673419211673</UPC>
+    <description>				&lt;p&gt;					Enjoy the Easy to Build Spider-Car and make an iconic model!				&lt;/p&gt;				&lt;p&gt;					The Spider-Car is all that stands between Spider-Man&amp;trade; and his arch-nemesis, Venom&amp;trade;, who wants to destroy the city! Build the car for some fast-paced fun. This Easy to Build set is a great way to grow your child&amp;rsquo;s skills. Watch as they start to play with LEGO&amp;reg; bricks and have fun playing with a famous superhero, too. The set also makes a great gift! Includes Spider-Man and Venom minifigures with assorted weapons.&lt;div&gt;&lt;ul&gt;&lt;li&gt;Includes Spider-Man&amp;trade; and Venom&amp;trade; minifigures with assorted weapons&lt;/li&gt;&lt;li&gt;Features Easy to Build Spider-Car with chunky tires, flames and iconic red and blue colors&lt;/li&gt;&lt;li&gt;Weapons include Spider-Man&amp;rsquo;s&amp;trade; spider web and Venom&amp;rsquo;s&amp;trade; black whips&lt;/li&gt;&lt;li&gt;Capture Venom&amp;trade; in the spider web!&lt;/li&gt;&lt;li&gt;Avoid Venom&amp;rsquo;s&amp;trade; whips!&lt;/li&gt;&lt;li&gt;Easy to Build elements are perfect for developing building skills&lt;/li&gt;&lt;li&gt;Includes age-appropriate building instructions&lt;/li&gt;&lt;li&gt;LEGO&amp;reg; Juniors is the perfect introduction to LEGO brick building&lt;/li&gt;&lt;li&gt;Spider-Car car base measures over 3&amp;rdquo; (8cm) long, 1&amp;rdquo; (5cm) wide and under 1&amp;rdquo; (2cm) high&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2016-05-17T18:16:36.197</lastUpdated>
+  </sets>
+</ArrayOfSets>

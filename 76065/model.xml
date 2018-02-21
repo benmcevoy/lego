@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24750</setID>
+    <number>76065</number>
+    <numberVariant>1</numberVariant>
+    <name>Mighty Micros: Captain America vs. Red Skull</name>
+    <year>2016</year>
+    <theme>Marvel Super Heroes</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Mighty Micros</subtheme>
+    <pieces>95</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>76065-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_76065-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/76065-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/76065-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/76065-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>3467</ownedByTotal>
+    <wantedByTotal>685</wantedByTotal>
+    <UKRetailPrice>8.99</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>6.99</EURetailPrice>
+    <USDateAddedToSAH>2016-03-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2017-01-04</USDateRemovedFromSAH>
+    <rating>4.5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>6</instructionsCount>
+    <additionalImageCount>4</additionalImageCount>
+    <EAN />
+    <UPC>673419250658</UPC>
+    <description>				&lt;p&gt;					Speed into battle against Red Skull with Captain America!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Drive Captain America's Mighty Micros tank towards Red Skull's own cool vehicle. Fend off Red Skull's missiles with Captain America's shield. Who will triumph in this awesome Mighty Micros battle?&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 2 minifigures with mini legs: Captain America and Red Skull.&lt;/li&gt;&lt;li&gt; Captain America's Mighty Micros tank features a front cannon.&lt;/li&gt;&lt;li&gt; Red Skull's Mighty Micros vehicle features 2 missiles.&lt;/li&gt;&lt;li&gt; Both vehicles have turning wheels.&lt;/li&gt;&lt;li&gt; Includes Red Skull's gun.&lt;/li&gt;&lt;li&gt; Accessory elements include Captain America's shield and a tesseract.&lt;/li&gt;&lt;li&gt; Makes a fun gift for young super heroes.&lt;/li&gt;&lt;li&gt; Captain America's Mighty Micros tank measures over 2” (6cm) high, 1” (5cm) long and 1” (4cm) wide.&lt;/li&gt;&lt;li&gt; Red Skull's Mighty Micros vehicle measures over 1” (5cm) high, 2” (7cm) long and 1” (4cm) wide.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2016-03-29T15:14:06.663</lastUpdated>
+  </sets>
+</ArrayOfSets>

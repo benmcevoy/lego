@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24923</setID>
+    <number>70608</number>
+    <numberVariant>1</numberVariant>
+    <name>Master Falls</name>
+    <year>2017</year>
+    <theme>The LEGO Ninjago Movie</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme />
+    <pieces>312</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>70608-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_70608-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/70608-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/70608-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/70608-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1506</ownedByTotal>
+    <wantedByTotal>841</wantedByTotal>
+    <UKRetailPrice>24.99</UKRetailPrice>
+    <USRetailPrice>29.99</USRetailPrice>
+    <CARetailPrice>39.99</CARetailPrice>
+    <EURetailPrice>29.99</EURetailPrice>
+    <USDateAddedToSAH>2017-08-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>10</additionalImageCount>
+    <EAN />
+    <UPC>673419247641</UPC>
+    <description>&lt;p&gt;Team up with Wu and Kai to take on Jungle Garmadon in this awesome THE LEGO® NINJAGO® MOVIE™ Master Falls set. The jungle bridge features an opening cage and a hidden cave with a skeleton inside holding a secret map. Also includes 3 minifigures with assorted weapons—including Wu’s staff and 4-armed Jungle Garmadon’s 4 swords—to bolster the role-play action.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 3 minifigures: Wu, Kai and Jungle Garmadon (with 4 arms and new-for-August-2017 jungle outfit decoration).&lt;/li&gt;&lt;li&gt; Jungle bridge features an entrance arch, opening cage, hidden cave with a skeleton holding a secret map, tropical leaf elements and translucent flame-style elements.&lt;/li&gt;&lt;li&gt; Weapons include Kai's 2 katanas, Wu's staff and Garmadon's 4 swords.&lt;/li&gt;&lt;li&gt; Recreate and role-play exciting THE LEGO® NINJAGO® MOVIE™ scenes.&lt;/li&gt;&lt;li&gt; Jungle bridge measures over 6” (16cm) high, 8” (22cm) wide and 5” (14cm) deep.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2017-07-08T21:39:14.31</lastUpdated>
+  </sets>
+</ArrayOfSets>

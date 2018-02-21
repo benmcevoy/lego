@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23823</setID>
+    <number>60075</number>
+    <numberVariant>1</numberVariant>
+    <name>Excavator and Truck</name>
+    <year>2015</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Construction</subtheme>
+    <pieces>311</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>60075-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_60075-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60075-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60075-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60075-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2651</ownedByTotal>
+    <wantedByTotal>1688</wantedByTotal>
+    <UKRetailPrice>34.99</UKRetailPrice>
+    <USRetailPrice>49.99</USRetailPrice>
+    <CARetailPrice>59.99</CARetailPrice>
+    <EURetailPrice>39.99</EURetailPrice>
+    <USDateAddedToSAH>2014-12-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2015-11-08</USDateRemovedFromSAH>
+    <rating>0</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>6</instructionsCount>
+    <additionalImageCount>9</additionalImageCount>
+    <EAN>5702015349864</EAN>
+    <UPC>673419230582</UPC>
+    <description>				&lt;p&gt;					Get the job done with the demolition Excavator and Truck!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Make way for the new building! The dynamite has done its work and the demolition experts are busy cleaning up the site. Help the experts operate their machines. Climb aboard the powerful excavator, grab the heavy rubble with the claw and drop it onto the conveyor. Activate the conveyer to move the rubble into the truck’s cargo bed, ready for transportation to the recycling plant. Just another day for the demolition experts! Includes 2 demolition worker minifigures with assorted accessories.&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;Includes 2 demolition worker minifigures with assorted accessories&lt;/li&gt;    &lt;li&gt;Features an excavator with moving boom and claw, working conveyor belt and a truck with tipping bed and opening tailgate&lt;/li&gt;    &lt;li&gt;Accessories include a broom, shovel, jackhammer, rubble and 2 dynamite sticks&lt;/li&gt;    &lt;li&gt;Operate the powerful excavator&lt;/li&gt;    &lt;li&gt;Activate the conveyer belt&lt;/li&gt;    &lt;li&gt;Tip the huge truck bed!&lt;/li&gt;    &lt;li&gt;Excavator measures over 6” (16cm) high, 5” (15cm) long and 2” (6cm) wide&lt;/li&gt;    &lt;li&gt;Truck measures over 3” (9cm) high, 6” (17cm) long and 1”(5cm)wide&lt;/li&gt;    &lt;li&gt;Conveyer measures over 3” (8cm) high, 5” (13cm) long and 2” (6cm) wide&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-01-15T09:07:11.733</lastUpdated>
+  </sets>
+</ArrayOfSets>

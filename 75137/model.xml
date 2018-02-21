@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24796</setID>
+    <number>75137</number>
+    <numberVariant>1</numberVariant>
+    <name>Carbon-Freezing Chamber</name>
+    <year>2016</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Episode V</subtheme>
+    <pieces>231</pieces>
+    <minifigs>3</minifigs>
+    <image>true</image>
+    <imageFilename>75137-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75137-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75137-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75137-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75137-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>11143</ownedByTotal>
+    <wantedByTotal>2012</wantedByTotal>
+    <UKRetailPrice>19.99</UKRetailPrice>
+    <USRetailPrice>24.99</USRetailPrice>
+    <CARetailPrice>29.99</CARetailPrice>
+    <EURetailPrice>29.99</EURetailPrice>
+    <USDateAddedToSAH>2016-03-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2017-11-24</USDateRemovedFromSAH>
+    <rating>4</rating>
+    <reviewCount>8</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>11</additionalImageCount>
+    <EAN />
+    <UPC>673419247764</UPC>
+    <description>				&lt;p&gt;					Help Han Solo escape his frozen prison!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Han Solo has been taken to the Carbon-Freezing Chamber and is about to be frozen in a block of solid carbonite! Can he defeat Boba Fett and escape or will he be frozen for all eternity by the Ugnaught? Only you can decide.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 3 minifigures: Han Solo, Boba Fett and an Ugnaught.&lt;/li&gt;&lt;li&gt; Features a control center, freeze bed with freeze function, staircase and an elevator.&lt;/li&gt;&lt;li&gt; Lift Boba Fett into position with the elevator so he can keep guard.&lt;/li&gt;&lt;li&gt; Pull the knob to engage the freeze function.&lt;/li&gt;&lt;li&gt; Includes Boba Fett’s blaster.&lt;/li&gt;&lt;li&gt; Also includes Boba Fett’s helmet&lt;/li&gt;&lt;li&gt; Recreate unforgettable scenes from Star Wars: Episode V The Empire Strikes Back.&lt;/li&gt;&lt;li&gt; Measures over 5” (13cm) high (with carbonite bed raised), 7” (18cm) wide and 5” (14cm) deep.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2016-02-13T22:07:41.597</lastUpdated>
+  </sets>
+</ArrayOfSets>

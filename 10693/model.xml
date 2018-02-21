@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23826</setID>
+    <number>10693</number>
+    <numberVariant>1</numberVariant>
+    <name>Creative Supplement</name>
+    <year>2015</year>
+    <theme>Classic</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>303</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>10693-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_10693-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/10693-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/10693-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/10693-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1743</ownedByTotal>
+    <wantedByTotal>270</wantedByTotal>
+    <UKRetailPrice>17.99</UKRetailPrice>
+    <USRetailPrice>19.99</USRetailPrice>
+    <CARetailPrice>24.99</CARetailPrice>
+    <EURetailPrice>19.99</EURetailPrice>
+    <USDateAddedToSAH>2015-01-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>0</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>7</additionalImageCount>
+    <EAN>5702015355711</EAN>
+    <UPC>673419232906</UPC>
+    <description>				&lt;p&gt;					Get ideas, get creative and get building!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Get busy building whatever you imagine with this colorful set of LEGO® bricks in different shapes and sizes! From space rockets and robots to dinosaurs and sharks, this set gives budding builders of all ages the versatility to be really creative and makes a great addition to any existing LEGO collection. There are LEGO bricks in 20 different colors, as well as 2 pairs of eyes to help you walk on the wild side. So let your imagination fly! And if you’re stuck for ideas, the instructions will helpto get you started.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes a range of  LEGO® bricks in 20 different colors&lt;/li&gt;&lt;li&gt; Features 2 sets of eyes for building all kinds of creatures&lt;/li&gt;&lt;li&gt; Encourages budding builders to stretch their imaginative muscles&lt;/li&gt;&lt;li&gt; Ideas included with the set and online at LEGO.com/classic to help you get started&lt;/li&gt;&lt;li&gt; Inspires open-ended creativity&lt;/li&gt;&lt;li&gt; All models pictured can be built from this set simultaneously&lt;/li&gt;&lt;li&gt; Includes a brick separator&lt;/li&gt;&lt;li&gt; LEGO® Classic sets are an ideal supplement to any existing LEGO collection&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2014-12-28T03:10:25.927</lastUpdated>
+  </sets>
+</ArrayOfSets>

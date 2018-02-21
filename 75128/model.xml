@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24787</setID>
+    <number>75128</number>
+    <numberVariant>1</numberVariant>
+    <name>TIE Advanced Prototype</name>
+    <year>2016</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>MicroFighters</subtheme>
+    <pieces>93</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>75128-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75128-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75128-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75128-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75128-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>6840</ownedByTotal>
+    <wantedByTotal>1029</wantedByTotal>
+    <UKRetailPrice>8.99</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>9.99</EURetailPrice>
+    <USDateAddedToSAH>2016-03-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2017-11-28</USDateRemovedFromSAH>
+    <rating>4</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN />
+    <UPC>673419247085</UPC>
+    <description>				&lt;p&gt;					Go on the hunt for microfighter rebels!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;The rebels are out there and must be stopped! Unfold the TIE Advanced Prototype’s wings and arm the missiles. Then seat the TIE Pilot in the cockpit and prepare to launch into a galaxy of space adventures.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes a TIE Pilot minifigure.&lt;/li&gt;&lt;li&gt; Features movable wings, dual flick missiles and an open cockpit with space for a minifigure to sit.&lt;/li&gt;&lt;li&gt; Fire the flick missiles for exciting space conflict.&lt;/li&gt;&lt;li&gt; Includes a blaster pistol and extra flick missile ammo.&lt;/li&gt;&lt;li&gt; Also includes a TIE Pilot helmet.&lt;/li&gt;&lt;li&gt; Match up with Hera Syndulla’s 75127 The Ghost microfighter for space-themed duels.&lt;/li&gt;&lt;li&gt; As featured in the Star Wars Rebels animated TV series.&lt;/li&gt;&lt;li&gt; Makes a great addition to any microfighter collectible set.&lt;/li&gt;&lt;li&gt;Measures (with wings unfolded) over 2” (7cm) high, 1” (5cm) long and 3” (8cm) wide.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-12-25T20:52:42.16</lastUpdated>
+  </sets>
+</ArrayOfSets>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>26339</setID>
+    <number>76073</number>
+    <numberVariant>1</numberVariant>
+    <name>Mighty Micros: Wolverine vs. Magneto</name>
+    <year>2017</year>
+    <theme>Marvel Super Heroes</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Mighty Micros</subtheme>
+    <pieces>85</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>76073-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_76073-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/76073-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/76073-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/76073-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2161</ownedByTotal>
+    <wantedByTotal>824</wantedByTotal>
+    <UKRetailPrice>8.99</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>9.99</EURetailPrice>
+    <USDateAddedToSAH>2017-01-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2018-01-28</USDateRemovedFromSAH>
+    <rating>5</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>6</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN />
+    <UPC>673419266420</UPC>
+    <description>&lt;p&gt;Stage a mutant-powered battle between Wolverine and Magneto. Wolverine has long claws and a Mighty Micros jet featuring extendable wings to help him escape being pulled in by Magneto’s magnet-shaped car and magnetic powers. Includes two minifigures with mini legs.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes Wolverine and Magneto minifigures with mini legs.&lt;/li&gt;&lt;li&gt; Wolverine's Mighty Micros jet features four movable wings.&lt;/li&gt;&lt;li&gt; Magneto's Mighty Micros car features a classic magnet shape at the rear.&lt;/li&gt;&lt;li&gt; Use Wolverine's claws to swipe at Magneto.&lt;/li&gt;&lt;li&gt; Accessory elements include Magneto's decorated-translucent magnetic power.&lt;/li&gt;&lt;li&gt; This set offers an age-appropriate build and play experience for ages 5-12.&lt;/li&gt;&lt;li&gt; Wolverine's Mighty Micros jet with wings folded in measures over 1” (3cm) high, 1” (5cm) long and 1” (4cm) wide.&lt;/li&gt;&lt;li&gt; Magneto's Mighty Micros car measures over 1” (3cm) high, 1” (5cm) long and 1” (4cm) wide.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2016-12-28T17:58:16.51</lastUpdated>
+  </sets>
+</ArrayOfSets>

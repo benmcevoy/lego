@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24256</setID>
+    <number>75900</number>
+    <numberVariant>1</numberVariant>
+    <name>Mummy Museum Mystery</name>
+    <year>2015</year>
+    <theme>Scooby-Doo</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme />
+    <pieces>110</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>75900-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75900-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75900-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75900-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75900-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>4755</ownedByTotal>
+    <wantedByTotal>1193</wantedByTotal>
+    <UKRetailPrice>11.99</UKRetailPrice>
+    <USRetailPrice>14.99</USRetailPrice>
+    <CARetailPrice>17.99</CARetailPrice>
+    <EURetailPrice>14.99</EURetailPrice>
+    <USDateAddedToSAH>2015-08-08</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2017-01-30</USDateRemovedFromSAH>
+    <rating>3.5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>1</additionalImageCount>
+    <EAN>5702015349734</EAN>
+    <UPC>673419230438</UPC>
+    <description>				&lt;p&gt;					Investigate the Mummy Museum Mystery with Scooby and Shaggy!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Enter the spooky museum with Shaggy and Scooby-Doo and solve the mystery of the missing gems! Jeepers, it’s a creepy place—our heroes are spooked… and hungry, as usual. But hang on! Are they seeing things or is that a hamburger hanging from the ceiling? Reach for the burger to accidentally open the golden sarcophagus or take off the mummy’s headdress to reveal the mastermind behind the robbery. Then open the secret door in the stairs to reveal the hidden treasure! Includes 2 minifigures: Shaggyand Mummy/Dr. Najib with an accessory element, plus Scooby-Doo (standing version).&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 2 minifigures: Shaggy and Mummy/Dr. Najib with an accessory element, plus Scooby-Doo (standing version)&lt;/li&gt;&lt;li&gt; Mummy Museum features an opening golden sarcophagus with brick-built hamburger and chain, secret compartment in stairs containing 3 gem elements, spotlight-style elements and a secret file tile with mystery clues&lt;/li&gt;&lt;li&gt; Includes Dr. Najib’s Egyptian headdress element&lt;/li&gt;&lt;li&gt; Grab the hamburger to open the sarcophagus!&lt;/li&gt;&lt;li&gt; Take off the Mummy’s Egyptian headdress to reveal Dr. Najib!&lt;/li&gt;&lt;li&gt; Openthestairs to reveal the hidden gems!&lt;/li&gt;&lt;li&gt; Mummy Museum measures over 4” (12cm) high, 4” (12cm) wide and 1” (5cm) deep&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-08-10T18:09:08.36</lastUpdated>
+  </sets>
+</ArrayOfSets>

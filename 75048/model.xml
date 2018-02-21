@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>23369</setID>
+    <number>75048</number>
+    <numberVariant>1</numberVariant>
+    <name>The Phantom</name>
+    <year>2014</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Rebels</subtheme>
+    <pieces>234</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>75048-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75048-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75048-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75048-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75048-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>6367</ownedByTotal>
+    <wantedByTotal>1793</wantedByTotal>
+    <UKRetailPrice>19.99</UKRetailPrice>
+    <USRetailPrice>24.99</USRetailPrice>
+    <CARetailPrice>29.99</CARetailPrice>
+    <EURetailPrice>29.99</EURetailPrice>
+    <USDateAddedToSAH>2014-08-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2015-10-28</USDateRemovedFromSAH>
+    <rating>4.11111111111111</rating>
+    <reviewCount>9</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>8</additionalImageCount>
+    <EAN>5702015122399</EAN>
+    <UPC>673419210119</UPC>
+    <description>				&lt;p&gt;					The Phantom				&lt;/p&gt;				&lt;p&gt;					Join the Rebel resistance against the evil Empire in The Phantom attack shuttle, as seen in the exciting Star Wars: Rebels animated TV series! Place young Rebel hero Ezra Bridger&amp;trade; in the detachable cockpit and store his cadet helmet and blaster in the cargo hold. Fit Ezra&amp;rsquo;s Droid companion, C1-10P&amp;trade;, in the back, close the roof, unfold the wings for flight mode and launch into battle. Fire the 2-way spring-loaded shooter to repel attacks from the front or the rear. After a successful mission, dock The Phantom safely on 75053 The Ghost starship (sold separately).&lt;div&gt;&lt;ul&gt;&lt;li&gt;Includes an Ezra Bridger&amp;trade; minifigure with a weapon and accessory, plus a C1-10P&amp;trade; figure&lt;/li&gt;&lt;li&gt;Features an opening and detachable cockpit with computer dashboard detail, 2 front shooters, hull section with removable roof and space for a droid, fold-out wings, 2-way spring-loaded shooter, rear cargo compartment and translucent red rocket boosters&lt;/li&gt;&lt;li&gt;Includes a blaster and a cadet helmet for Ezra&lt;/li&gt;&lt;li&gt;Store the helmet and weapon in the cargo compartment&lt;/li&gt;&lt;li&gt;Place Ezra in the cockpit and launch into battle&lt;/li&gt;&lt;li&gt;Fold out the wings for flight mode&lt;/li&gt;&lt;li&gt;Fire the spring-loaded shooter forwards or backwards&lt;/li&gt;&lt;li&gt;Recreate exciting scenes from the Star Wars: Rebels animated TV series!&lt;/li&gt;&lt;li&gt;The Phantom measures over 3&amp;rdquo; (9cm) high, 7&amp;rdquo; (19cm) long and 3&amp;rdquo; (10cm) wide&lt;/li&gt;&lt;li&gt;Combine with 75053 The Ghost starship&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2014-06-10T08:13:12.757</lastUpdated>
+  </sets>
+</ArrayOfSets>

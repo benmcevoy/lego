@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>26694</setID>
+    <number>70911</number>
+    <numberVariant>1</numberVariant>
+    <name>The Penguin Arctic Roller</name>
+    <year>2017</year>
+    <theme>The LEGO Batman Movie</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme />
+    <pieces>305</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>70911-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_70911-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/70911-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/70911-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/70911-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>4536</ownedByTotal>
+    <wantedByTotal>1602</wantedByTotal>
+    <UKRetailPrice>29.99</UKRetailPrice>
+    <USRetailPrice>29.99</USRetailPrice>
+    <CARetailPrice>39.99</CARetailPrice>
+    <EURetailPrice>34.99</EURetailPrice>
+    <USDateAddedToSAH>2017-01-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail - limited</availability>
+    <instructionsCount>4</instructionsCount>
+    <additionalImageCount>11</additionalImageCount>
+    <EAN />
+    <UPC />
+    <description>&lt;p&gt;Join Batman’s pursuit of The Penguin in THE LEGO® BATMAN MOVIE: The Penguin™ Arctic Roller set. The Arctic Roller vehicle features a minifigure cockpit with removable roof, dual spring-loaded shooter and loads of quirky penguin details. Add an extra dimension to the chase by opening the trunk and placing The Penguin™ on his penguin mini escape pod. Includes two minifigures.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes two minifigures: Batman™ and The Penguin™.&lt;/li&gt;&lt;li&gt; The Arctic Roller features a minifigure cockpit with removable roof, six wheels with rubber tires and golden-colored trims, dual spring-loaded shooter, an opening trunk with penguin mini escape pod, fish missile details on either side of the car, penguin-head hood ornament and translucent headlight-style elements.&lt;/li&gt;&lt;li&gt; Press the button on the hood to fire the spring-loaded shooters.&lt;/li&gt;&lt;li&gt; The penguin mini escape pod has an open minifigure cockpit, steering wheel element and penguin details.&lt;/li&gt;&lt;li&gt; Includes Batman’s Batarang.&lt;/li&gt;&lt;li&gt; Accessory elements include Batman’s cape and new-for-spring-2017 molded utility belt, and the Penguin’s collar, top hat and umbrella.&lt;/li&gt;&lt;li&gt; This set offers an age-appropriate build and play experience for ages 8+.&lt;/li&gt;&lt;li&gt; Arctic Roller measures over 2” (7cm) high, 8” (22cm) long and 2” (7cm) wide.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2016-12-04T15:38:51.56</lastUpdated>
+  </sets>
+</ArrayOfSets>

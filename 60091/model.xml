@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24145</setID>
+    <number>60091</number>
+    <numberVariant>1</numberVariant>
+    <name>Deep Sea Starter Set</name>
+    <year>2015</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Deep Sea Explorers</subtheme>
+    <pieces>90</pieces>
+    <minifigs>3</minifigs>
+    <image>true</image>
+    <imageFilename>60091-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_60091-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60091-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60091-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60091-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>5263</ownedByTotal>
+    <wantedByTotal>1036</wantedByTotal>
+    <UKRetailPrice>8.99</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>9.99</EURetailPrice>
+    <USDateAddedToSAH>2015-05-18</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2016-12-02</USDateRemovedFromSAH>
+    <rating>4.5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN>5702015350624</EAN>
+    <UPC>673419230841</UPC>
+    <description>				&lt;p&gt;					Explore the ocean’s depths with the Deep Sea Starter Set!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Join the LEGO® City deep-sea explorers on their search for lost treasure with the Deep Sea Starter Set! The diver has spotted a mysterious chest on the seabed and needs your help to free it from the seaweed. Take control of the remote sub and use its powerful robotic arms to release the chest and reveal the secret treasures hidden inside. But watch out for the snappy shark lurking in the dark water! Includes 3 minifigures: a deep-sea diver and 2 scuba divers.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 3 minifigures with assorted accessories: a deep-sea diver and 2 scuba divers&lt;/li&gt;&lt;li&gt; Features a remote sub, seaweed and a shark&lt;/li&gt;&lt;li&gt; Remote sub features spinning propellers and 2 movable robotic arms&lt;/li&gt;&lt;li&gt; Accessory elements include a remote control, camera, crowbar, chest, 3 gold coins and a ruby&lt;/li&gt;&lt;li&gt; Find the sunken treasure!&lt;/li&gt;&lt;li&gt; Join the deep-sea exploration team&lt;/li&gt;&lt;li&gt; Steer the sub into the depths&lt;/li&gt;&lt;li&gt; Watch out for the snappy shark!&lt;/li&gt;&lt;li&gt; Remote sub measures over 1” (4cm) high, 3” (8cm) long and 2” (7cm) wide&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-08-08T03:40:19.707</lastUpdated>
+  </sets>
+</ArrayOfSets>

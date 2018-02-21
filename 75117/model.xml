@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24782</setID>
+    <number>75117</number>
+    <numberVariant>1</numberVariant>
+    <name>Kylo Ren</name>
+    <year>2016</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Buildable Figures</subtheme>
+    <pieces>86</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>75117-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75117-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75117-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75117-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75117-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>4208</ownedByTotal>
+    <wantedByTotal>996</wantedByTotal>
+    <UKRetailPrice>19.99</UKRetailPrice>
+    <USRetailPrice>24.99</USRetailPrice>
+    <CARetailPrice>29.99</CARetailPrice>
+    <EURetailPrice>24.99</EURetailPrice>
+    <USDateAddedToSAH>2016-01-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>3.5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>5</instructionsCount>
+    <additionalImageCount>6</additionalImageCount>
+    <EAN />
+    <UPC>673419248112</UPC>
+    <description>				&lt;p&gt;					Go on the hunt for Resistance forces with the fierce Kylo Ren™!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Join the powerful First Order leader, Kylo Ren, as he strides into battle. Grab the special Lightsaber, turn the wheel to swing his arm and see Resistance forces run!&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;Buildable and highly posable Kylo Ren figure features a real cloth cape and robe, Ren’s special Lightsaber and wheel-activated arm-swinging battle function.&lt;/li&gt;    &lt;li&gt;Move the limbs into any battle pose.&lt;/li&gt;    &lt;li&gt;Sturdy and durable design for intense action play.&lt;/li&gt;    &lt;li&gt;Play out exciting combat scenes with this iconic character from the blockbuster &lt;i&gt;Star Wars&lt;/i&gt;™: The Force Awakens movie.&lt;/li&gt;    &lt;li&gt;Figure stands over 10” (26cm) tall.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-12-19T00:00:53.867</lastUpdated>
+  </sets>
+</ArrayOfSets>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>22957</setID>
+    <number>75036</number>
+    <numberVariant>1</numberVariant>
+    <name>Utapau Troopers</name>
+    <year>2014</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Episode III</subtheme>
+    <pieces>83</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>75036-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75036-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75036-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75036-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75036-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>7133</ownedByTotal>
+    <wantedByTotal>2003</wantedByTotal>
+    <UKRetailPrice>11.99</UKRetailPrice>
+    <USRetailPrice>12.99</USRetailPrice>
+    <CARetailPrice>15.99</CARetailPrice>
+    <EURetailPrice>11.89</EURetailPrice>
+    <USDateAddedToSAH>2014-02-18</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2015-10-26</USDateRemovedFromSAH>
+    <rating>4.72727272727273</rating>
+    <reviewCount>11</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>2</additionalImageCount>
+    <EAN>5702015121132</EAN>
+    <UPC>673419209335</UPC>
+    <description>				&lt;p&gt;					Defeat the Tri-Droid with the Utapau Troopers™ battle pack!				&lt;/p&gt;				&lt;p&gt;					Help the 212th Battalion Clone Troopers take on the Octuptarra Tri-Droid with the LEGO&amp;reg; &lt;i&gt;Star Wars&lt;/i&gt;&amp;trade; Utapau Troopers&amp;trade; battle pack. But watch out! With a rotating head, poseable legs and 3 flick missiles, the dangerous Tri-Droid is more than a match for the Clone Troopers! Includes 4 minifigures with weapons: 2 212th Battalion Clone Troopers&amp;trade; and 2 Airborne Clone Troopers&amp;trade;.&lt;ul&gt;&lt;li&gt;Includes 4 minifigures with weapons: 2 212th Battalion Clone Troopers&amp;trade; and 2 Airborne Clone Troopers&amp;trade;&lt;/li&gt;&lt;li&gt;Features a Tri-Droid with a rotating head, poseable legs and 3 flick missiles&lt;/li&gt;&lt;li&gt;Includes 4 new blasters that really fire&lt;/li&gt;&lt;li&gt;Features new Airborne Clone Trooper&amp;trade; helmet design and body detailing&lt;/li&gt;&lt;li&gt;Tri-Droid (with legs folded) measures over 5&amp;rdquo; (14cm) high, 3&amp;rdquo; (8cm) long and 2&amp;rdquo; (7cm) wide&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2014-09-30T19:19:47.05</lastUpdated>
+  </sets>
+</ArrayOfSets>

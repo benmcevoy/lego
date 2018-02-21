@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24693</setID>
+    <number>31045</number>
+    <numberVariant>1</numberVariant>
+    <name>Ocean Explorer</name>
+    <year>2016</year>
+    <theme>Creator</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>213</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>31045-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_31045-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/31045-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/31045-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/31045-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2324</ownedByTotal>
+    <wantedByTotal>516</wantedByTotal>
+    <UKRetailPrice>12.99</UKRetailPrice>
+    <USRetailPrice>14.99</USRetailPrice>
+    <CARetailPrice>19.99</CARetailPrice>
+    <EURetailPrice>14.99</EURetailPrice>
+    <USDateAddedToSAH>2015-12-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2018-01-15</USDateRemovedFromSAH>
+    <rating>5</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>6</instructionsCount>
+    <additionalImageCount>4</additionalImageCount>
+    <EAN />
+    <UPC>673419246965</UPC>
+    <description>				&lt;p&gt;					Head for the high seas with the 3-in-1 Ocean Explorer!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;Explore the ocean depths with this cool set, featuring a ship with a dark-blue, red, white and gray color scheme, large captain’s bridge, navigation lights, radar, antennas, funnel and a yellow robotic submarine. Operate the ship’s boom to lower the sub into the sea, then submerge and explore! When you feel like a change, rebuild to create a cargo plane or a large submarine.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Features a ship with a movable crane boom, large captain’s bridge, navigation lights, radar, antennas, funnel and a yellow submarine with movable arms.&lt;/li&gt;&lt;li&gt; Boat features an iconic dark-blue, red, white and gray color scheme.&lt;/li&gt;&lt;li&gt; Submarine features a yellow, gray and black color scheme.&lt;/li&gt;&lt;li&gt; Turn the crane and lower the submarine into the sea!&lt;/li&gt;&lt;li&gt; Move the submarine’s robotic arms to collect samples from the seabed.&lt;/li&gt;&lt;li&gt; This set offers an age-appropriate building experience for ages 7-12.&lt;/li&gt;&lt;li&gt; Includesmore than 210 LEGO® bricks.&lt;/li&gt;&lt;li&gt; 3-in-1 model: rebuilds into a cargo plane or a large submarine.&lt;/li&gt;&lt;li&gt; Ocean Explorer measures over 3” (10cm) high, 5” (14cm) long and 2” (7cm) wide.&lt;/li&gt;&lt;li&gt; Submarine measures over 1” (3cm) long and under 1” (1cm) high and 1” (1cm) wide.&lt;/li&gt;&lt;li&gt; Cargo plane measures over 2” (6cm) high, 5” (14cm) long and 5” (14cm) wide.&lt;/li&gt;&lt;li&gt; Large submarine measures over 3” (8cm) high, 3” (10cm) long and 2” (6cm) wide.&lt;/li&gt;&lt;li&gt; Combine with the 31040, 31041 and 31043 mini-vehicle sets for extended play.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-12-01T20:33:40.21</lastUpdated>
+  </sets>
+</ArrayOfSets>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>24790</setID>
+    <number>75131</number>
+    <numberVariant>1</numberVariant>
+    <name>Resistance Trooper Battle Pack</name>
+    <year>2016</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>The Force Awakens</subtheme>
+    <pieces>112</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>75131-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75131-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75131-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75131-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75131-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>6538</ownedByTotal>
+    <wantedByTotal>1301</wantedByTotal>
+    <UKRetailPrice>11.99</UKRetailPrice>
+    <USRetailPrice>12.99</USRetailPrice>
+    <CARetailPrice>15.99</CARetailPrice>
+    <EURetailPrice>16.99</EURetailPrice>
+    <USDateAddedToSAH>2016-01-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2017-11-25</USDateRemovedFromSAH>
+    <rating>4.6</rating>
+    <reviewCount>5</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>8</additionalImageCount>
+    <EAN />
+    <UPC>673419247115</UPC>
+    <description>				&lt;p&gt;					Speed into battle against the First Order forces!				&lt;/p&gt;				&lt;p&gt;					&lt;p&gt;The First Order has been detected nearby and must be intercepted. Load the Resistance Troopers onto the speeder, arm the shooter and speed out on a mission to find them!&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes 4 minifigures: 3 Resistance Troopers and a Resistance Officer.&lt;/li&gt;&lt;li&gt; Features a speeder with space for 2 minifigures and a rotating stud shooter.&lt;/li&gt;&lt;li&gt; Fire the stud shooter to repel the enemy.&lt;/li&gt;&lt;li&gt; Includes 4 stud blasters and extra stud shooter ammo.&lt;/li&gt;&lt;li&gt; Also includes 3 Resistance Trooper helmets.&lt;/li&gt;&lt;li&gt; Makes a great addition to any LEGO® Star Wars collection.&lt;/li&gt;&lt;li&gt; Measures over 2” (6cm) high, 3” (10cm) long and 2” (6cm) wide.&lt;/li&gt;&lt;/ul&gt;				&lt;/p&gt;											</description>
+    <lastUpdated>2015-12-31T17:45:54.73</lastUpdated>
+  </sets>
+</ArrayOfSets>

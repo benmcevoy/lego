@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>26425</setID>
+    <number>31058</number>
+    <numberVariant>1</numberVariant>
+    <name>Mighty Dinosaurs</name>
+    <year>2017</year>
+    <theme>Creator</theme>
+    <themeGroup>Basic</themeGroup>
+    <subtheme />
+    <pieces>174</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>31058-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_31058-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/31058-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/31058-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/31058-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>2828</ownedByTotal>
+    <wantedByTotal>788</wantedByTotal>
+    <UKRetailPrice>12.99</UKRetailPrice>
+    <USRetailPrice>14.99</USRetailPrice>
+    <CARetailPrice>17.99</CARetailPrice>
+    <EURetailPrice>14.99</EURetailPrice>
+    <USDateAddedToSAH>2016-11-27</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>4</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>6</instructionsCount>
+    <additionalImageCount>5</additionalImageCount>
+    <EAN />
+    <UPC>673419266482</UPC>
+    <description>&lt;p&gt;Have fun with the awesome T. rex, featuring a dark-green and beige color scheme, bright orange eyes, posable joints and head, large claws and an opening mouth with pointed teeth. Also includes the dinosaur’s prey in the form of a buildable rib cage. Rebuild this 3-in-1 LEGO® Creator Mighty Dinosaurs model to create a Triceratops or a Pterodactyl.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Features a 3-in-1 T. rex with bright orange eyes, posable joints and head, large claws and an opening mouth with pointed teeth. Also includes the dinosaur’s prey in the form of a buildable rib cage.&lt;/li&gt;&lt;li&gt; Check out the authentic dark-green and beige color scheme.&lt;/li&gt;&lt;li&gt; Stomp through the streets with the scary T. rex.&lt;/li&gt;&lt;li&gt; Pose the T. rex's arms, legs, tail and head, and open its mouth to reveal ferocious teeth.&lt;/li&gt;&lt;li&gt; Rebuild to create other Mighty Dinosaurs.&lt;/li&gt;&lt;li&gt; This set includes over 170 pieces and offers an age-appropriate build and play experience for ages 7-12.&lt;/li&gt;&lt;li&gt; 3-in-1 model: rebuilds into a Triceratops or a Pterodactyl.&lt;/li&gt;&lt;li&gt; T. rex measures over 4” (11cm) tall.&lt;/li&gt;&lt;li&gt; Triceratops measures over 3” (9cm) tall.&lt;/li&gt;&lt;li&gt; Pterodactyl measures over 1” (4cm) high, 7” (18cm) long and 9” (25cm) wide.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2016-11-10T14:19:35.46</lastUpdated>
+  </sets>
+</ArrayOfSets>
