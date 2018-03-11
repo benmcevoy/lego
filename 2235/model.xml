@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>8277</setID>
+    <number>2235</number>
+    <numberVariant>1</numberVariant>
+    <name>Fire Lord</name>
+    <year>2011</year>
+    <theme>HERO Factory</theme>
+    <themeGroup>Constraction</themeGroup>
+    <subtheme />
+    <pieces>125</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>2235-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_2235-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/2235-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/2235-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/2235-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>978</ownedByTotal>
+    <wantedByTotal>405</wantedByTotal>
+    <UKRetailPrice>17.99</UKRetailPrice>
+    <USRetailPrice>19.99</USRetailPrice>
+    <CARetailPrice>24.99</CARetailPrice>
+    <EURetailPrice />
+    <USDateAddedToSAH>2010-12-28</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2011-11-29</USDateRemovedFromSAH>
+    <rating>4.33333333333333</rating>
+    <reviewCount>3</reviewCount>
+    <packagingType>{Not specified}</packagingType>
+    <availability>{Not specified}</availability>
+    <instructionsCount>1</instructionsCount>
+    <additionalImageCount>8</additionalImageCount>
+    <ageMin>9</ageMin>
+    <ageMax>16</ageMax>
+    <height>28.19</height>
+    <width>26.19</width>
+    <depth>4.6</depth>
+    <weight>0.38</weight>
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Ccbs, HERO Factory Villain, Ordeal Of Fire, Titan, </tags>
+    <EAN />
+    <UPC>673419144254</UPC>
+    <description>Lead your army of villains to steal the hero-pod fuel!</description>
+    <lastUpdated>2010-12-03T15:27:21.42</lastUpdated>
+  </sets>
+</ArrayOfSets>
