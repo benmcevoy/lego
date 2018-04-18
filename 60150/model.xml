@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>26549</setID>
+    <number>60150</number>
+    <numberVariant>1</numberVariant>
+    <name>Pizza Van</name>
+    <year>2017</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Traffic</subtheme>
+    <pieces>249</pieces>
+    <minifigs>2</minifigs>
+    <image>true</image>
+    <imageFilename>60150-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_60150-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60150-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60150-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60150-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>7500</ownedByTotal>
+    <wantedByTotal>1597</wantedByTotal>
+    <UKRetailPrice>14.99</UKRetailPrice>
+    <USRetailPrice>19.99</USRetailPrice>
+    <CARetailPrice>24.99</CARetailPrice>
+    <EURetailPrice>19.99</EURetailPrice>
+    <USDateAddedToSAH>2016-11-27</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>4.75</rating>
+    <reviewCount>8</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>4</instructionsCount>
+    <additionalImageCount>8</additionalImageCount>
+    <ageMin>5</ageMin>
+    <ageMax>12</ageMax>
+    <height>19.1008</height>
+    <width>26.2128</width>
+    <depth>6.096</depth>
+    <weight>0.4127687</weight>
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Motor Bike, Pizza, Street Vendor, Van, </tags>
+    <EAN />
+    <UPC>673419264693</UPC>
+    <description>&lt;p&gt;Make and serve some pizza for your customers with the LEGO® City Pizza Van, featuring a van with opening sides and kitchen space in the back, a scooter and a buildable table with parasol. Includes two minifigures.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Includes two minifigures: a pizza van chef and a customer.&lt;/li&gt;&lt;li&gt;Features a Pizza Van, scooter and a buildable table with parasol.&lt;/li&gt;&lt;li&gt;Pizza Van features opening sides and a kitchen area for the chef to serve pizza.&lt;/li&gt;&lt;li&gt;Scooter features space behind the seat for a pizza box.&lt;/li&gt;&lt;li&gt;Set up the table with parasol.&lt;/li&gt;&lt;li&gt;Raise either side of the Pizza Van to open for business.&lt;/li&gt;&lt;li&gt;Serve the customer a full pizza, a slice or some french fries.&lt;/li&gt;&lt;li&gt;Accessory elements include a pizza box, full pizza, pizza slice and french fries.&lt;/li&gt;&lt;li&gt;This set offers an age-appropriate build and play experience for ages 5-12.&lt;/li&gt;&lt;li&gt;Pizza Van measures over 3” (8cm) high, 5” (14cm) long and 1” (5cm) wide.&lt;/li&gt;&lt;li&gt;Scooter measures over 1” (3cm) high, 1” (5cm) long and under 1” (2cm) wide.&lt;/li&gt;&lt;li&gt;Table with parasol measures over 2” (6cm) high, 1” (4cm) wide and 1” (4cm) deep.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2016-11-07T20:56:30.833</lastUpdated>
+  </sets>
+</ArrayOfSets>
