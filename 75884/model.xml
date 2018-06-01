@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>27732</setID>
+    <number>75884</number>
+    <numberVariant>1</numberVariant>
+    <name>1968 Ford Mustang Fastback</name>
+    <year>2018</year>
+    <theme>Speed Champions</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Ford</subtheme>
+    <pieces>183</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>75884-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75884-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/75884-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/75884-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/75884-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1490</ownedByTotal>
+    <wantedByTotal>1150</wantedByTotal>
+    <UKRetailPrice>12.99</UKRetailPrice>
+    <USRetailPrice>14.99</USRetailPrice>
+    <CARetailPrice>18.99</CARetailPrice>
+    <EURetailPrice>14.99</EURetailPrice>
+    <USDateAddedToSAH>2018-03-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>5</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>1</instructionsCount>
+    <additionalImageCount>3</additionalImageCount>
+    <ageMin />
+    <ageMax />
+    <height />
+    <width />
+    <depth />
+    <weight />
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Ford, Racing Car, Sports Car, </tags>
+    <EAN />
+    <UPC />
+    <description>&lt;p&gt;Create a buildable LEGO&amp;reg; Speed Champions version of a classic car&amp;mdash;the 1968 Ford Mustang Fastback. Ideal for display or racing, it features a minifigure cockpit, removable windshield, wheels with rubber tires and gold-colored rims, and authentic design details. This construction toy includes a minifigure and buildable &amp;lsquo;timing&amp;#39; board to play out race scenarios.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Includes a classic Ford racing driver minifigure.&lt;/li&gt;
+	&lt;li&gt;The race-ready, buildable 1968 Ford Mustang Fastback vehicle features a minifigure cockpit with removable windshield, wheels with rubber tires and gold-colored rims, transparent light-style elements, racing colors, race-graphics stickers and authentic design details.&lt;/li&gt;
+	&lt;li&gt;Remove the windshield to place the minifigure in the car.&lt;/li&gt;
+	&lt;li&gt;Includes a buildable &amp;lsquo;timing&amp;#39; board with digital display and Ford logo stickers.&lt;/li&gt;
+	&lt;li&gt;Also includes the Ford racing driver&amp;rsquo;s helmet.&lt;/li&gt;
+	&lt;li&gt;This construction toy is suitable for ages 7-14.&lt;/li&gt;
+	&lt;li&gt;1968 Ford Mustang Fastback measures over 1&amp;rdquo; (5cm) high, 5&amp;rdquo; (14cm) long and 2&amp;rdquo; (6cm) wide.&lt;/li&gt;
+	&lt;li&gt;&amp;lsquo;Timing&amp;rsquo; board measures over 2&amp;rdquo; (6cm) high, 1&amp;rdquo; (4cm) wide and under 1&amp;rdquo; (1cm) deep.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    <lastUpdated>2018-03-19T09:55:49.04</lastUpdated>
+  </sets>
+</ArrayOfSets>
