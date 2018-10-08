@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>26765</setID>
+    <number>10731</number>
+    <numberVariant>1</numberVariant>
+    <name>Cruz Ramirez Race Simulator</name>
+    <year>2017</year>
+    <theme>Juniors</theme>
+    <themeGroup>Junior</themeGroup>
+    <subtheme>Cars 3</subtheme>
+    <pieces>59</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>10731-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_10731-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/10731-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/10731-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/10731-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>780</ownedByTotal>
+    <wantedByTotal>163</wantedByTotal>
+    <UKRetailPrice>7.99</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>9.99</EURetailPrice>
+    <USDateAddedToSAH>2017-05-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>0</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>5</additionalImageCount>
+    <ageMin>4</ageMin>
+    <ageMax>7</ageMax>
+    <height>14.097</height>
+    <width>15.6972</width>
+    <depth>4.4958</depth>
+    <weight>0.1270058</weight>
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Cruz Ramirez|n, Cruz Ramirez, Disney, Pixar, </tags>
+    <EAN />
+    <UPC>673419266703</UPC>
+    <description>&lt;p&gt;Be part of the exciting Disney•Pixar Cars 3 racing world with Cruz Ramirez and her Race Simulator, featuring a rotating screen, ramp and turbine fan to test Cruz’ racing skills. Includes a simple guide to build and play, and bigger pieces help build confidence in younger kids. LEGO® Juniors is an age-appropriate build and play experience for ages 4-7. Includes a Cruz Ramirez LEGO Juniors character.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes a Cruz Ramirez character from Disney•Pixar Cars 3.&lt;/li&gt;&lt;li&gt; Features an Easy to Build Race Simulator with rotating screen and wind turbine, rotating platform and lowering ramp.&lt;/li&gt;&lt;li&gt; Drive Cruz Ramirez onto the rotating simulator platform to practice her racing skills.&lt;/li&gt;&lt;li&gt; Turn the screen so Cruz can see the details as she races.&lt;/li&gt;&lt;li&gt; Spin the wind turbine to help her simulate different speeds.&lt;/li&gt;&lt;li&gt; Includes Easy to Build models with bigger pieces and a simple guide to get kids building and playing quickly.&lt;/li&gt;&lt;li&gt; Cruz Ramirez measures over 1” (3cm) high, 2” (7cm) long and 1” (3cm) wide.&lt;/li&gt;&lt;li&gt; Race Simulator with ramp extended and screen tilted measures over 2” (7cm) high, 2” (7cm) wide and 5” (15cm) deep.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2017-05-02T00:59:53.147</lastUpdated>
+  </sets>
+</ArrayOfSets>

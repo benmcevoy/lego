@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>26510</setID>
+    <number>42065</number>
+    <numberVariant>1</numberVariant>
+    <name>RC Tracked Racer</name>
+    <year>2017</year>
+    <theme>Technic</theme>
+    <themeGroup>Technical</themeGroup>
+    <subtheme />
+    <pieces>370</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>42065-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_42065-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/42065-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/42065-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/42065-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>3109</ownedByTotal>
+    <wantedByTotal>1311</wantedByTotal>
+    <UKRetailPrice>74.99</UKRetailPrice>
+    <USRetailPrice>99.99</USRetailPrice>
+    <CARetailPrice>129.99</CARetailPrice>
+    <EURetailPrice>79.99</EURetailPrice>
+    <USDateAddedToSAH>2017-08-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>4.75</rating>
+    <reviewCount>4</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>3</instructionsCount>
+    <additionalImageCount>5</additionalImageCount>
+    <ageMin>9</ageMin>
+    <ageMax>16</ageMax>
+    <height />
+    <width />
+    <depth />
+    <weight />
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Off Roader, Power Functions, Remote Control, Tracked Vehicle, </tags>
+    <EAN />
+    <UPC />
+    <description>&lt;p&gt;Spin, turn, clamber over obstacles and race at breakneck speed with this fully motorized, remote-controlled LEGO® Technic RC Tracked Racer, featuring a lime-green, white and black color scheme with decorative stickers, driver’s cab with roll bars and two large tracks, each powered by six wheels. Drive forward or backward, left or right and make 360° turns. Rebuild to create an RC Off-Road Truck.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Features a high-speed, fully motorized, remote-controlled vehicle with large tracks.&lt;/li&gt;&lt;li&gt; Check out the fresh lime-green, white and black color scheme with cool stickers.&lt;/li&gt;&lt;li&gt; Drive forward, backward, left and right, perform turns up to 360° and drive over large obstacles with ease.&lt;/li&gt;&lt;li&gt; A uniquely decorated LEGO® Technic 40th Anniversary brick is included with this model.&lt;/li&gt;&lt;li&gt; Includes the following LEGO® Power Functions components: two medium motors, one receiver, one battery box and a remote control.&lt;/li&gt;&lt;li&gt; This LEGO® Technic model is designed to provide an immersive and rewarding building experience.&lt;/li&gt;&lt;li&gt; This set offers an age-appropriate building experience for ages 9-16.&lt;/li&gt;&lt;li&gt; Designed for indoor use only.&lt;/li&gt;&lt;li&gt; 2-in-1 model: rebuilds into an RC Off-Road Truck.&lt;/li&gt;&lt;li&gt; Batteries not included.&lt;/li&gt;&lt;li&gt; RC Tracked Racer measures over 3” (9cm) high, 8” (22cm) long and 6” (16cm) wide.&lt;/li&gt;&lt;li&gt; RC Off-Road Truck measures over 5” (15cm) high, 7” (20cm) long and 6” (16cm) wide.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2016-11-09T02:28:40.363</lastUpdated>
+  </sets>
+</ArrayOfSets>

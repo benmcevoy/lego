@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>26457</setID>
+    <number>41307</number>
+    <numberVariant>1</numberVariant>
+    <name>Olivia's Creative Lab</name>
+    <year>2017</year>
+    <theme>Friends</theme>
+    <themeGroup>Girls</themeGroup>
+    <subtheme />
+    <pieces>91</pieces>
+    <minifigs>1</minifigs>
+    <image>true</image>
+    <imageFilename>41307-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_41307-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/41307-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/41307-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/41307-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>1228</ownedByTotal>
+    <wantedByTotal>350</wantedByTotal>
+    <UKRetailPrice>8.99</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>12.99</CARetailPrice>
+    <EURetailPrice>9.99</EURetailPrice>
+    <USDateAddedToSAH>2017-01-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2017-11-25</USDateRemovedFromSAH>
+    <rating>5</rating>
+    <reviewCount>2</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>10</additionalImageCount>
+    <ageMin>5</ageMin>
+    <ageMax>12</ageMax>
+    <height>14.097</height>
+    <width>15.6972</width>
+    <depth>4.4958</depth>
+    <weight>0.113398</weight>
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Olivia|n, 11Th Wave, Lab, Robot, Science, Zobito, Zobo, </tags>
+    <EAN />
+    <UPC>673419264952</UPC>
+    <description>&lt;p&gt;LEGO® Friends Olivia’s Creative Lab is where Olivia brings her inventions to life! There’s a desk with a drawing board and opening draw, lots of tools, plus a docking station with a place for each member of her robot family and monitor to show the battery power. Includes a mini-doll figure, plus three buildable robot figures.&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Includes an Olivia mini-doll figure, plus Zobo, Zuzu and Zobito the buildable robot figures.&lt;/li&gt;&lt;li&gt; Features a lab desk with a drawing board and opening draw, a storage box plus a docking station with monitor and space for three robots.&lt;/li&gt;&lt;li&gt; Accessory elements include a remote control, tools, binoculars, cup and a baby bottle.&lt;/li&gt;&lt;li&gt; Get to work with Olivia and Zobo to make two new robot friends.&lt;/li&gt;&lt;li&gt; Put each of the robots on the docking station to charge up and play out controlling them with Olivia's remote control.&lt;/li&gt;&lt;li&gt; Get a special LEGO® Friends best friend charm with this set to collect and share with your best friend!&lt;/li&gt;&lt;li&gt; This set offers an age-appropriate build and play experience for ages 5-12.&lt;/li&gt;&lt;li&gt; Lab desk measures over 2” (6cm) high, 2” (7cm) wide and 1” (3cm) deep.&lt;/li&gt;&lt;li&gt; Docking station measures over 1” (5cm) high, 2” (6cm) wide and 1” (3cm) deep.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2017-03-04T23:03:24.133</lastUpdated>
+  </sets>
+</ArrayOfSets>
