@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>27918</setID>
+    <number>60205</number>
+    <numberVariant>1</numberVariant>
+    <name>Tracks</name>
+    <year>2018</year>
+    <theme>City</theme>
+    <themeGroup>Modern day</themeGroup>
+    <subtheme>Trains</subtheme>
+    <pieces>20</pieces>
+    <minifigs />
+    <image>true</image>
+    <imageFilename>60205-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/small/60205-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/60205-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/60205-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/60205-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>781</ownedByTotal>
+    <wantedByTotal>699</wantedByTotal>
+    <UKRetailPrice>15.99</UKRetailPrice>
+    <USRetailPrice>19.99</USRetailPrice>
+    <CARetailPrice>24.99</CARetailPrice>
+    <EURetailPrice>17.99</EURetailPrice>
+    <USDateAddedToSAH>2018-07-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>0</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>0</instructionsCount>
+    <additionalImageCount>4</additionalImageCount>
+    <ageMin>5</ageMin>
+    <ageMax>12</ageMax>
+    <height>19</height>
+    <width>26</width>
+    <depth>6</depth>
+    <weight>0.317</weight>
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Train Track, </tags>
+    <EAN>5702016199055</EAN>
+    <UPC />
+    <description>&lt;p&gt;Extend your passenger train’s range with this LEGO® City 60205 Tracks set. This set of 8 straight tracks, 4 curved tracks and 8 flexible tracks is the perfect supplement to your existing LEGO City train sets.                                                                                                                                                                                                                                                                                                    &lt;/p&gt;&lt;ul&gt;&lt;li&gt; Features 8 straight, 4 curved and 8 flexible tracks.&lt;/li&gt;&lt;li&gt; Add flexible tracks to your LEGO® City train system to get around obstacles and awkward shapes.&lt;/li&gt;&lt;li&gt; Connect the tracks to your existing sets, including the 60197 LEGO® Passenger Train toy set, to extend your play and fun.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2018-07-05T01:45:30.67</lastUpdated>
+  </sets>
+</ArrayOfSets>
