@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>27390</setID>
+    <number>40262</number>
+    <numberVariant>1</numberVariant>
+    <name>Christmas Train Ride</name>
+    <year>2017</year>
+    <theme>Seasonal</theme>
+    <themeGroup>Miscellaneous</themeGroup>
+    <subtheme>Christmas</subtheme>
+    <pieces>169</pieces>
+    <minifigs>3</minifigs>
+    <image>true</image>
+    <imageFilename>40262-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/small/40262-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/40262-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/40262-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/40262-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>4232</ownedByTotal>
+    <wantedByTotal>703</wantedByTotal>
+    <UKRetailPrice>8.49</UKRetailPrice>
+    <USRetailPrice>9.99</USRetailPrice>
+    <CARetailPrice>11.99</CARetailPrice>
+    <EURetailPrice>9.99</EURetailPrice>
+    <USDateAddedToSAH>2017-10-02</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2018-01-15</USDateRemovedFromSAH>
+    <rating>4</rating>
+    <reviewCount>1</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>LEGO exclusive</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>8</additionalImageCount>
+    <ageMin>7</ageMin>
+    <ageMax />
+    <height>14</height>
+    <width>15.7</width>
+    <depth>6</depth>
+    <weight />
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Baked Goods, Christmas, Lamppost, Steam Locomotive, Street Vendor, Vignette, </tags>
+    <EAN>5702015868471</EAN>
+    <UPC />
+    <description>&lt;p&gt;All aboard for a festive journey with the LEGO® Christmas Train Ride set, featuring a red locomotive with 2 green carriages, plus a lamppost with a city map, 2 shop stalls, a holiday tree and various accessories. Also includes 3 minifigures: a train driver, passenger and a shopkeeper. Makes a great seasonal gift for LEGO fans.&lt;/p&gt;&lt;ul&gt;    &lt;li&gt;Includes 3 minifigures: a train driver, passenger and a shopkeeper.&lt;/li&gt;    &lt;li&gt;Features a red locomotive with 2 green carriages, a lamppost with a city map, 2 shop stalls, a holiday tree and various buildable accessories and elements, including cups, wreaths and a bench.&lt;/li&gt;    &lt;li&gt;Measures over 3” (8cm) high, 7” (19cm) wide and 6” (17cm) deep.&lt;/li&gt;&lt;/ul&gt;</description>
+    <lastUpdated>2017-11-28T23:13:03.73</lastUpdated>
+  </sets>
+</ArrayOfSets>
