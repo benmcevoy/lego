@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>28366</setID>
+    <number>76124</number>
+    <numberVariant>1</numberVariant>
+    <name>War Machine Buster</name>
+    <year>2019</year>
+    <theme>Marvel Super Heroes</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Avengers: Endgame</subtheme>
+    <pieces>362</pieces>
+    <minifigs>4</minifigs>
+    <image>true</image>
+    <imageFilename>76124-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/small/76124-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/76124-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/76124-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/76124-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>false</wanted>
+    <qtyOwned>0</qtyOwned>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>873</ownedByTotal>
+    <wantedByTotal>1556</wantedByTotal>
+    <UKRetailPrice>29.99</UKRetailPrice>
+    <USRetailPrice>34.99</USRetailPrice>
+    <CARetailPrice>49.99</CARetailPrice>
+    <EURetailPrice>34.99</EURetailPrice>
+    <USDateAddedToSAH>2019-04-01</USDateAddedToSAH>
+    <USDateRemovedFromSAH />
+    <rating>0</rating>
+    <reviewCount>0</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>Retail</availability>
+    <instructionsCount>2</instructionsCount>
+    <additionalImageCount>4</additionalImageCount>
+    <ageMin />
+    <ageMax />
+    <height />
+    <width />
+    <depth />
+    <weight />
+    <category>Normal</category>
+    <notes />
+    <userRating>0</userRating>
+    <tags>Ant-Man|n, Outrider|n, War Machine|n, Avengers, Marvel Cinematic Universe, Mech, Outriders, </tags>
+    <EAN>5702016369069</EAN>
+    <UPC />
+    <description />
+    <lastUpdated>2019-04-03T16:17:42.573</lastUpdated>
+  </sets>
+</ArrayOfSets>
