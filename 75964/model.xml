@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <number>75964</number>
+    <numberVariant />
+    <name>Harry Potter Advent Calendar</name>
+    <year>2019</year>
+    <theme>Advent</theme>
+    <pieces>305</pieces>
+    <minifigs />
+    <thumbnailURL>https://cdn.rebrickable.com/media/sets/75964-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://cdn.rebrickable.com/media/sets/75964-1.jpg</largeThumbnailURL>
+    <imageURL>https://cdn.rebrickable.com/media/sets/75964-1.jpg</imageURL>
+    <bricksetURL>https://rebrickable.com/sets/75964-1/harry-potter-advent-calendar/</bricksetURL>
+    <description />
+  </sets>
+</ArrayOfSets>

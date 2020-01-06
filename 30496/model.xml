@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <number>30496</number>
+    <numberVariant />
+    <name>U-Wing Fighter</name>
+    <year>2017</year>
+    <theme>Star Wars</theme>
+    <pieces>55</pieces>
+    <minifigs />
+    <thumbnailURL>https://cdn.rebrickable.com/media/sets/30496-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://cdn.rebrickable.com/media/sets/30496-1.jpg</largeThumbnailURL>
+    <imageURL>https://cdn.rebrickable.com/media/sets/30496-1.jpg</imageURL>
+    <bricksetURL>https://rebrickable.com/sets/30496-1/u-wing-fighter/</bricksetURL>
+    <description />
+  </sets>
+</ArrayOfSets>

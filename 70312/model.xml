@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <number>70312</number>
+    <numberVariant />
+    <name>Lance's Mecha Horse</name>
+    <year>2016</year>
+    <theme>Nexo Knights</theme>
+    <pieces>237</pieces>
+    <minifigs />
+    <thumbnailURL>https://cdn.rebrickable.com/media/sets/70312-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://cdn.rebrickable.com/media/sets/70312-1.jpg</largeThumbnailURL>
+    <imageURL>https://cdn.rebrickable.com/media/sets/70312-1.jpg</imageURL>
+    <bricksetURL>https://rebrickable.com/sets/70312-1/lances-mecha-horse/</bricksetURL>
+    <description />
+  </sets>
+</ArrayOfSets>

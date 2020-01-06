@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <number>41388</number>
+    <numberVariant />
+    <name>Mia's Summer Heart Box</name>
+    <year>2019</year>
+    <theme>Friends</theme>
+    <pieces>85</pieces>
+    <minifigs />
+    <thumbnailURL>https://cdn.rebrickable.com/media/sets/41388-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://cdn.rebrickable.com/media/sets/41388-1.jpg</largeThumbnailURL>
+    <imageURL>https://cdn.rebrickable.com/media/sets/41388-1.jpg</imageURL>
+    <bricksetURL>https://rebrickable.com/sets/41388-1/mias-summer-heart-box/</bricksetURL>
+    <description />
+  </sets>
+</ArrayOfSets>

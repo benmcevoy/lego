@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <number>60224</number>
+    <numberVariant />
+    <name>Satellite Service Mission</name>
+    <year>2019</year>
+    <theme>Mars Exploration</theme>
+    <pieces>84</pieces>
+    <minifigs />
+    <thumbnailURL>https://cdn.rebrickable.com/media/sets/60224-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://cdn.rebrickable.com/media/sets/60224-1.jpg</largeThumbnailURL>
+    <imageURL>https://cdn.rebrickable.com/media/sets/60224-1.jpg</imageURL>
+    <bricksetURL>https://rebrickable.com/sets/60224-1/satellite-service-mission/</bricksetURL>
+    <description />
+  </sets>
+</ArrayOfSets>

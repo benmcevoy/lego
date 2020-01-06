@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <number>70680</number>
+    <numberVariant />
+    <name>Monastery Training</name>
+    <year>2019</year>
+    <theme>Ninjago</theme>
+    <pieces>131</pieces>
+    <minifigs />
+    <thumbnailURL>https://cdn.rebrickable.com/media/sets/70680-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://cdn.rebrickable.com/media/sets/70680-1.jpg</largeThumbnailURL>
+    <imageURL>https://cdn.rebrickable.com/media/sets/70680-1.jpg</imageURL>
+    <bricksetURL>https://rebrickable.com/sets/70680-1/monastery-training/</bricksetURL>
+    <description />
+  </sets>
+</ArrayOfSets>

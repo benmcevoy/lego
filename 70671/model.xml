@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <number>70671</number>
+    <numberVariant />
+    <name>Lloyd's Journey</name>
+    <year>2019</year>
+    <theme>Ninjago</theme>
+    <pieces>81</pieces>
+    <minifigs />
+    <thumbnailURL>https://cdn.rebrickable.com/media/sets/70671-1.jpg</thumbnailURL>
+    <largeThumbnailURL>https://cdn.rebrickable.com/media/sets/70671-1.jpg</largeThumbnailURL>
+    <imageURL>https://cdn.rebrickable.com/media/sets/70671-1.jpg</imageURL>
+    <bricksetURL>https://rebrickable.com/sets/70671-1/lloyds-journey/</bricksetURL>
+    <description />
+  </sets>
+</ArrayOfSets>
